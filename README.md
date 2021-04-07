@@ -26,3 +26,6 @@ Reading and writing video into a file
 
 ### Commit 5:
 Drawing and modifying video output. Add shapes, lines and text onto the video frame and display it.
+
+### Commit 6:
+Implement a simple state and event handler. Recognise and process mouse click with event handling implmentation. Create new window and implement 'eyedrop' or 'colour grab' functionality. This is useful for tracking specific colour of an item in future implementations.
