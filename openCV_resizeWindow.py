@@ -15,6 +15,12 @@ cam = cv2.VideoCapture(camSet)
 while(True):
     feed_success_flag, frame=cam.read()
     cv2.imshow('Camera',frame)
+    cv2.moveWindow('Camera',0,0)
+
+    # Resize the frame 'frame'
+    frame_small = cv2.resize(frame,(320,240))
+    cv2.imshow('Camera_small',frame_small)
+    cv2.moveWindow('Camera_small',720,0)
 
     if(cv2.waitKey(1) == ord('q')):
         break
