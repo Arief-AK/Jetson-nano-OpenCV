@@ -13,7 +13,7 @@ This program implements the OpenCV libraries and functions that handles video in
 ## Commit summaries
 
 ### Commit 1:
-Introduction to the OpenCV project. Learn to integrate GitHub and VScode project. Set up GitHub repository and project. Initialise interface with camera module using 'G-Streamer'. Creating multiple windows and modifying colour properties.
+Introduction to the OpenCV project. Learn to integrate GitHub and VScode project. Set up GitHub repository and project. Initialise interface with camera module using 'G-Streamer'. Create multiple windows and modifying colour properties.
 
 ### Commit 2:
 Moving windows and inspect latency
