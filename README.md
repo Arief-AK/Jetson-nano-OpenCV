@@ -22,3 +22,4 @@ Moving windows and inspect latency
 Resizing windows and inspect latency
 
 ### Commit 4:
+Reading and writing video into a file
