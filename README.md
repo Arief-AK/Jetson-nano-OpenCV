@@ -8,6 +8,3 @@ This program implements the OpenCV libraries and functions that handles video in
 ### What I've learnt:
 * Basic OpenCV commands
 * Version control using git in VScode IDE
-
-### This is a test
-Test text
