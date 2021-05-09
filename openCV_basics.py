@@ -12,11 +12,10 @@ camSet='nvarguscamerasrc !  video/x-raw(memory:NVMM), width=3264, height=2464, f
 # Assign camera handle to video source (Waveshare webcam) using OpenCV instance
 cam = cv2.VideoCapture(camSet)
 
-# This is a test to assign to git
-
 while(True):
     feed_success_flag, frame=cam.read()
     cv2.imshow('Camera',frame)
+    cv2.moveWindow('Camera',0,0)
 
     if(cv2.waitKey(1) == ord('q')):
         break
