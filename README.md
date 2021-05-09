@@ -23,3 +23,6 @@ Resizing windows and inspect latency
 
 ### Commit 4:
 Reading and writing video into a file
+
+### Commit 5:
+Drawing and modifying video output. Add shapes, lines and text onto the video frame and display it.
