@@ -34,5 +34,5 @@ Implement a simple state and event handler. Recognise and process mouse click wi
 ### Commit 7:
 Implement drawing and modifying trackbars. Using trackbars to modify a shape to move or change its parameters.
 
-### Commit 7:
+### Commit 8:
 Implement and modify a region of intererest (ROI) window. Using a moving shape to define the region of interest. Create copies of video input feed.
