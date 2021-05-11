@@ -32,4 +32,7 @@ Drawing and modifying video output. Add shapes, lines and text onto the video fr
 Implement a simple state and event handler. Recognise and process mouse click with event handling implmentation. Create new window and implement 'eyedrop' or 'colour grab' functionality. This is useful for tracking specific colour of an item in future implementations.
 
 ### Commit 7:
-Implement drawing and modifying trackbars. Using trackbars to modify a shape to move or change its parameters. 
+Implement drawing and modifying trackbars. Using trackbars to modify a shape to move or change its parameters.
+
+### Commit 7:
+Implement and modify a region of intererest (ROI) window. Using a moving shape to define the region of interest. Create copies of video input feed.
