@@ -8,6 +8,7 @@ This program implements the OpenCV libraries and functions that handles video in
 
 ### What I've learnt:
 * Basic OpenCV commands
+* Editing video in real-time output 
 * Version control using git in VScode IDE
 
 ## Commit summaries
@@ -29,3 +30,6 @@ Drawing and modifying video output. Add shapes, lines and text onto the video fr
 
 ### Commit 6:
 Implement a simple state and event handler. Recognise and process mouse click with event handling implmentation. Create new window and implement 'eyedrop' or 'colour grab' functionality. This is useful for tracking specific colour of an item in future implementations.
+
+### Commit 7:
+Implement drawing and modifying trackbars. Using trackbars to modify a shape to move or change its parameters. 
